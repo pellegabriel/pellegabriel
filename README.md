@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello! I'm Gabriel Pelle 👋</h1>
+</div>
+<img src="https://i.imgur.com/DNx0s3I.png" alt="Gabriel Pelle">
 
-<!--
-**pellegabriel/pellegabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hello! I'm Gabriel Pelle, a highly skilled software engineer specializing in web and mobile design and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📲 **Mobile Developer** and **Web Developer**
+- 🌍 Based in **Buenos Aires, Argentina**
+
+## Skills
+
+- **Frontend:** NextJS, ReactJS, React Native
+- **Languages:** TypeScript
+- **Tools:** AWS, Git
+- **Methodologies:** Agile
+
+## Interests
+
+- **FinTech Innovations**
+- **Microservices**
+- **User Experience (UX)**
+
+## Contact
+
+- 📧 Email: [gabypelle12@gmail.com](mailto:gabypelle12@gmail.com)
+- 💼 LinkedIn: linkedin.com/in/gabrielpelle
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/pellegabriel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
