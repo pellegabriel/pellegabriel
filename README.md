@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hello! I'm Gabriel Pelle 👋</h1>
+<h1 align="center">Hello! I'm Gabriel 👋</h1>
 </div>
-<img src="https://i.imgur.com/DNx0s3I.png" alt="Gabriel Pelle">
+<img src="https://i.imgur.com/wNdYR91.png" alt="Gabriel Pelle">
 
 ## About me
 
-Hello! I'm Gabriel Pelle, a highly skilled software engineer specializing in web and mobile design and development.
+Hello! I'm a highly skilled software engineer specializing in web and mobile design and development.
 
 - 📲 **Mobile Developer** and **Web Developer**
 - 🌍 Based in **Buenos Aires, Argentina**
