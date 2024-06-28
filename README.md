@@ -17,6 +17,15 @@ Hello! I'm Gabriel Pelle, a highly skilled software engineer specializing in web
 - **Tools:** AWS, Git
 - **Methodologies:** Agile
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/pellegabriel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pellegabriel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pellegabriel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## Interests
 
 - **FinTech Innovations**
@@ -28,11 +37,4 @@ Hello! I'm Gabriel Pelle, a highly skilled software engineer specializing in web
 - 📧 Email: [gabypelle12@gmail.com](mailto:gabypelle12@gmail.com)
 - 💼 LinkedIn: linkedin.com/in/gabrielpelle
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/pellegabriel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
