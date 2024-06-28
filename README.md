@@ -7,8 +7,11 @@
 
 Hello! I'm a highly skilled software engineer specializing in web and mobile design and development.
 
-- 📲 **Mobile Developer** and **Web Developer**
-- 🌍 Based in **Buenos Aires, Argentina**
+- 💻 **Mobile Developer** and **Web Developer**
+- 📱 Creating seamless mobile experiences and innovative web solutions
+- 🌟 Dedicated to delivering high-quality, user-centric products
+- 🌍 Based in Buenos Aires, Argentina, always eager to learn and grow
+
 
 ## Skills
 
@@ -28,13 +31,11 @@ Hello! I'm a highly skilled software engineer specializing in web and mobile des
 
 ## Interests
 
-- **FinTech Innovations**
-- **Microservices**
-- **User Experience (UX)**
+- **FinTech Innovations** 💸
+- **Microservices** 🛠️
+- **User Experience (UX)** 🎨
 
 ## Contact
 
 - 📧 Email: [gabypelle12@gmail.com](mailto:gabypelle12@gmail.com)
-- 💼 LinkedIn: linkedin.com/in/gabrielpelle
-
-
+- 💼 LinkedIn: [linkedin.com/in/gabrielpelle](https://www.linkedin.com/in/gabrielpelle/)
